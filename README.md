@@ -38,3 +38,4 @@ If you'd like to contribute to Communiti, please fork the repository and create 
 
 - Loading Animation: [JC Toon](https://rive.app/@JcToon/)
 - Login Button Animation: [DesignCode](https://designcode.io/)
+- RankBM25 algorithm: [Dorian Brown](https://github.com/dorianbrown/rank_bm25)
