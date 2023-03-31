@@ -27,6 +27,12 @@ You can download the latest version of Communiti APK [here](https://github.com/m
 
 If you'd like to contribute to Communiti, please fork the repository and create a pull request with your changes. We welcome all contributions, including bug fixes, feature enhancements, and new ideas!
 
+## Authors
+- [Shivam](https://github.com/mavihS-0)
+- [Vidhi P Shah](https://github.com/vps115)
+- [Aditi Jain](https://github.com/aditiixx)
+- [Ronith Jaju]()
+
 ## Credits
 
 - Loading Animation: [JC Toon](https://rive.app/@JcToon/)
