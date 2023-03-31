@@ -247,7 +247,7 @@ class _AddEventPageState extends State<AddEventPage> {
                           var jsonResponse = jsonDecode(response.body);
                           summ = jsonResponse[0];
                         }
-                        else summ=_description.substring(0,70)+'...';
+                        else summ=_description.length <70 ? _description : _description.substring(0,70)+'...';
                         _addEvent();
                       },
                       style: ElevatedButton.styleFrom(
