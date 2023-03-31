@@ -13,8 +13,9 @@ Communiti is a mobile application that allows NGOs (non-governmental organizatio
 
 ## Technologies Used
 
-- Communiti is built using Flutter for the frontend, Firebase for the backend, and cloud Firestore for the database.
+- Communiti is built using Flutter for the frontend, Firebase for the backend, and cloud Firestore for the database
 - Python used for summarizing and searching algorithms, Flask used to deploy python scripts on web using Render
+- BM25 is a ranking function that sorts a group of documents based on the presence of query terms in each document
 
 ## How to Use
 
