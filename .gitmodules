@@ -1,3 +1,6 @@
 [submodule "pythonScriptHost"]
 	path = pythonScriptHost
 	url = https://github.com/aditiixx/pythonScriptHost
+[submodule "rank_bm25"]
+	path = rank_bm25
+	url = https://github.com/aditiixx/rank_bm25
