@@ -1,4 +1,4 @@
-# Communiti
+<h1><img align="center" height=5% width=5% src="app_icon.png"> Communiti</h1>
 
 Communiti is a mobile application that allows NGOs (non-governmental organizations) to post volunteer opportunities and volunteers to find and sign up for those opportunities. The app helps to bridge the gap between NGOs in need of volunteers and individuals who want to give back to their community.
 
