@@ -31,7 +31,7 @@ If you'd like to contribute to Communiti, please fork the repository and create 
 - [Shivam](https://github.com/mavihS-0)
 - [Vidhi P Shah](https://github.com/vps115)
 - [Aditi Jain](https://github.com/aditiixx)
-- [Ronith Jaju]()
+- [Ronith Jaju](https://github.com/RonithJaju)
 
 ## Credits
 
