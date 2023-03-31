@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274036807759",
+    "project_id": "one-for-all-cbabf",
+    "storage_bucket": "one-for-all-cbabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274036807759:android:2bdf463b641258b208b23a",
+        "android_client_info": {
+          "package_name": "com.example.one_for_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274036807759-nd71te7gs6a954vi9ogu87tsstb819as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQW3h2BOJ4V_APVUD0khox6ieAHel-LsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274036807759-nd71te7gs6a954vi9ogu87tsstb819as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
